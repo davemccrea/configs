@@ -1,0 +1,43 @@
+{
+  "workbench.colorTheme": "Dracula Soft",
+  "editor.fontFamily": "Noto Sans Mono, monospace",
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.enableSmartCommit": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "beautify.config": {
+    "html": {
+      "indent_size": 2
+    }
+  },
+  "beautify.language": {
+    "html": ["htm", "html", "html-eex"]
+  },
+  "emmet.includeLanguages": {
+    "html-eex": "html"
+  },
+  "files.associations": {
+    "*.eex": "html-eex",
+    "*.leex": "html-eex"
+  },
+  "elixirLS.fetchDeps": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.startupEditor": "none"
+}
